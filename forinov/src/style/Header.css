@@ -1,0 +1,64 @@
+.top-img {
+  width: 100vw;
+  height: 200px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+.logo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  padding: 0px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.save {
+  background-color: #27292f;
+  border-radius: 40px;
+  border: solid 1px #fff;
+  height: 40px;
+  height: 40px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.public {
+  background-color: white;
+  color: #006dff;
+  border-radius: 40px;
+  border: solid 1px #fff;
+  height: 40px;
+  height: 40px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tag {
+  background-color: white;
+  color: #006dff;
+  border-radius: 5px;
+  border: solid 1px #fff;
+  height: 30px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+}
+
+.spacer {
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.cloud-icon {
+  margin-left: 5px;
+}
+
+.social {
+  height: 20px;
+}

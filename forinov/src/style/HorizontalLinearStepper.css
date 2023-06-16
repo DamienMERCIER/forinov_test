@@ -1,0 +1,19 @@
+.step-time {
+  display: none;
+}
+.step-text {
+  font-size: 1.2em;
+  font-weight: 500;
+  color: #006dff;
+  text-decoration: inherit;
+}
+
+.global-step:hover .step-time {
+  display: block;
+  color: white;
+  background-color: #006dff;
+  border-radius: 4px;
+  padding: 0.2em 0.4em;
+  font-size: 0.8em;
+  font-weight: 500;
+}
